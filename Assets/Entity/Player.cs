@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public EPlayerType playerType;
+    public Role playerType;
 
 
     #region Skin

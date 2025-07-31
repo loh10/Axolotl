@@ -1,6 +1,12 @@
-﻿public enum EPlayerType
+﻿public enum EWinSide
 {
-    Villager,
-    Wolf,
-    None
+    Solo,
+    Good,
+    Evil
+}
+
+public enum EGameState
+{
+    Night,
+    Day
 }
